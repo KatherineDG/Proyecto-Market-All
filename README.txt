@@ -1,0 +1,1 @@
+Abrir la carpeta "TPO" en su IDE preferido (con las configuraciones correspondientes para la ejecución de un programa hecho con JAVA) como Eclipse.
